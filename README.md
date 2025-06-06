@@ -1,23 +1,34 @@
-# Privacy Policy | Beep2Bleep
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy – Bleeping Spaceships MR</title>
+</head>
+<body>
+  <h1>Privacy Policy for Bleeping Spaceships MR</h1>
+  <p><strong>Effective Date:</strong> June 5, 2025</p>
 
-Your privacy is important to us at **Beep2Bleep**. This Privacy Policy outlines our practices regarding the collection, use, and protection of your information when you use our Meta Quest application.
+  <p><strong>Bleeping Spaceships MR</strong> does not collect, store, or share personally identifiable information from users directly. However, the app may access and use limited user data as required by Oculus/Meta Platform Features. This includes:</p>
 
-## Information Collection
+  <ul>
+    <li><strong>User ID or Oculus Username</strong> – to enable platform-integrated features such as leaderboards or cloud saves</li>
+    <li><strongUser Interaction Data</strong> – including in-game progress or scores, strictly for app functionality</li>
+  </ul>
 
-- **No Personal Information Collected:** We do **not** collect any personally identifiable information from users.
-- **Anonymous Data:** We may use anonymous data solely for in-game analytics and saving player progress. This data cannot be used to identify you.
-- **Meta Quest Platform:** Our app utilizes Meta Quest platform services, which may collect platform-level information as governed by Meta's policies.
+  <p>This data is processed only within the Meta/Oculus platform and is not transmitted to external servers. The purpose of this processing is to support essential features of the application.</p>
 
-## Data Sharing
+  <h2>Data Use Purposes</h2>
+  <ul>
+    <li>To enable in-game features like saving progress or leaderboards</li>
+    <li>To maintain functionality across gameplay sessions</li>
+    <li>To support Oculus/Meta platform services</li>
+  </ul>
 
-- No data is shared with third parties. We are committed to keeping your information secure and private.
+  <h2>Data Sharing</h2>
+  <p>We do not sell, rent, or share user data with third parties. All data processing remains within Meta/Oculus systems where required for app operation.</p>
 
-## Contact Us
+  <h2>Data Deletion Requests</h2>
+  <p>If you would like to request deletion of any data associated with your use of Bleeping Spaceships MR, please contact us at <a href="mailto:web@beep2bleep.com">web@beep2bleep.com</a>. We will assist with coordinating the deletion process via Meta’s available platform tools.</p>
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-
-📧 [web@beep2bleep.com](mailto:web@beep2bleep.com)
-
----
-
-© 2025 Beep2Bleep. All Rights Reserved.
+  <p>For more information on Meta’s privacy practices, please visit the <a href="https://www.meta.com/legal/privacy-policy/" target="_blank">Meta Privacy Policy</a>.</p>
+</body>
+</html>
